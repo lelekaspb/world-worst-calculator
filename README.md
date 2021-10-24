@@ -1,5 +1,3 @@
-![video](Calculator_demo.mp4)
-
 The calculator has a list of results, two input-fields, a drop-down-selector, and a “calculate”-button.
 
 Normal operation is that the user enters one number in the first input-field, selects the operator (+, –, \*, or / for add, subtract, multiply or divide), then enters another number in the second input-field, and presses the “calculate”-button.
